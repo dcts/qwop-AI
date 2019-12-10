@@ -1,6 +1,6 @@
 # QWOP AI
 
-Repo to make an algorithm learn how to play the [QWOP game](http://www.foddy.net/Athletics.html).
+Repo to make an algorithm learn how to play the [QWOP game](http://www.foddy.net/Athletics.html). Work in progress. The algorithm already accomplished to finish the run but its very slow and shitty.
 ![QWOP-algorithm](https://user-images.githubusercontent.com/44790691/70528993-ccc43b00-1b4f-11ea-991d-dfbf28e70132.png)
 
 ### Evolution
